@@ -1,0 +1,11 @@
+<title>A simple dashboard</title>
+<h1>Python:</h1>
+<h1>{{py_word}}</h1>
+<h1>Java:</h1>
+<h1>{{java_word}}</h1>
+<h1>C:</h1>
+<h1>{{c_word}}</h1>
+
+
+
+
